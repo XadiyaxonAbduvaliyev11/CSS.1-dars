@@ -1,0 +1,19 @@
+p{
+    font-size: 25px;
+    color: aqua;
+}
+.matn{
+    font-size: 35px;
+    color: lawngreen;
+}
+.shrift{
+    font-size: 40px;
+    color:deepskyblue;
+}
+#fon{
+    background-color: darkblue;
+}
+#fan{
+    background-color: red;
+    color: white;
+}
